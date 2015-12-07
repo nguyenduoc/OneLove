@@ -36,7 +36,7 @@ public class conect  extends AsyncTask<Void, String, String>{
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		return "misss";		
+		return "misss";	//comment	
 	
 	}
 	private String getJson(String mURL2, String mMethod2) throws IOException {
